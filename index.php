@@ -81,7 +81,7 @@
                             </ul>
                         </li>
                         <li><a href="materias.html" target="info">Materias</a></li>
-                        <li><a href="portfolio.html">Cuestionarios</a></li>                        
+                        <li><a href="cuestionarios.html" target="info">Cuestionarios</a></li>                        
                         <li><a href="blog.html">Calificaciones</a></li> 
                         <li><a href="contact-us.html">Contactenos</a></li>                        
                     </ul>
