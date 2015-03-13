@@ -70,20 +70,20 @@
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
                         <li class="active"><a href="index.html">Home</a></li>
-                        <li><a href="about-us.html">About Us</a></li>
+                        <li><a href="construccion.html">About Us</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Diario <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu">
-                                <li><a href="blog-item.html">Tareas</a></li>
-                                <li><a href="pricing.html">Avisos</a></li>
-                                <li><a href="404.html">404</a></li>
-                                <li><a href="shortcodes.html">Shortcodes</a></li>
+                                <li><a href="construccion.html">Tareas</a></li>
+                                <li><a href="construccion.html">Avisos</a></li>
+                                <li><a href="construccion.html">404</a></li>
+                                <li><a href="construccion.html">Shortcodes</a></li>
                             </ul>
                         </li>
                         <li><a href="materias.html" target="info">Materias</a></li>
                         <li><a href="cuestionarios.html" target="info">Cuestionarios</a></li>                        
-                        <li><a href="blog.html">Calificaciones</a></li> 
-                        <li><a href="contact-us.html">Contactenos</a></li>                        
+                        <li><a href="construccion.html">Calificaciones</a></li> 
+                        <li><a href="construccion.html">Contactenos</a></li>                        
                     </ul>
                 </div>
             </div><!--/.container-->
