@@ -716,3 +716,11 @@ textarea {
 	-webkit-transform: scale(1);
 	transform: scale(1);
 }
+
+ iframe {
+   margin:0; /* remove any margins of the IFrame and the body tag */
+   padding:0;   
+   display:block; /* force the iframe to display as block */  
+   width: 100%;  
+   border:none;
+}
