@@ -94,7 +94,7 @@
 <!--/************************* IFRAME centro **************************************************************-->
     <section id="main-slider" class="no-margin">
       <div class="item">       
-        <iframe name="info" width="100%" height="730"  src="inicio.html" frameborder="0" ></iframe>         
+        <iframe name="info"  height="730"  src="inicio.html"  ></iframe>         
       </div>
    </section>
 <!--/************************* IFRAME centro **************************************************************-->
