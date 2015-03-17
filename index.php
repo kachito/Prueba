@@ -64,13 +64,13 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html"><img src="images/logo2.png" alt="logo"></a>
+                    <a class="navbar-brand" href="index.php"><img src="images/logo2.png" alt="logo"></a>
                 </div>
                 
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="index.html">Home</a></li>
-                        <li><a href="construccion.html">About Us</a></li>
+                        <li class="active"><a href="index.php">Home</a></li>
+                        <li><a href="about-us - copia.html" target="info">About Us</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Diario <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu">
