@@ -70,7 +70,7 @@
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
                         <li class="active"><a href="index.php">Home</a></li>
-                        <li><a href="about-us - copia.html" target="info">About Us</a></li>
+                        <li><a href="about-us - copia.html">About Us</a></li>
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Diario <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu">
@@ -80,10 +80,10 @@
                                 <li><a href="construccion.html">Shortcodes</a></li>
                             </ul>
                         </li>
-                        <li><a href="materias.html" target="info">Materias</a></li>
-                        <li><a href="cuestionarios.html" target="info">Cuestionarios</a></li>                        
+                        <li><a href="materias.html">Materias</a></li>       <!-- target="info"-->
+                        <li><a href="cuestionarios.html" >Cuestionarios</a></li>                        
                         <li><a href="construccion.html">Calificaciones</a></li> 
-                        <li><a href="construccion.html">Contactenos</a></li>                        
+                        <li><a href="contactenos.html">Contactenos</a></li>                        
                     </ul>
                 </div>
             </div><!--/.container-->
@@ -91,12 +91,97 @@
         
     </header><!--/header-->
 
-<!--/************************* IFRAME centro **************************************************************-->
+
+<!--/************************* IFRAME centro *************************************************************
     <section id="main-slider" class="no-margin">
       <div class="item">       
         <iframe name="info"  height="730"  src="inicio.html"  ></iframe>         
       </div>
    </section>
+************************ IFRAME centro **************************************************************-->
+
+
+
+<!--/************************* IFRAME centro **************************************************************-->
+<section id="main-slider" class="no-margin">
+        <div class="carousel slide" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#main-slider" data-slide-to="0" class="active"></li>
+                <li data-target="#main-slider" data-slide-to="1"></li>
+                <li data-target="#main-slider" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+
+                <div class="item active" style="background-image: url(images/slider/anime1.jpg)">
+                    <div class="container">
+                        <div class="row slide-margin">
+                            <div class="col-sm-6">
+                                <div class="carousel-content">
+                                    <h1 class="animation animated-item-1">B-Smart</h1>
+                                    <h2 class="animation animated-item-2">Esta página se encuentra en mantenimiento, se espera que se ponga en marcha el año lectivo 2015 - 2016, para los alumnos del GTL (Great Teacher Lenin) ...</h2>
+                                    <a class="btn-slide animation animated-item-3" href="#">Leer Más...</a>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-6 hidden-xs animation animated-item-4">
+                                <div class="slider-img">
+                                    <img src="images/slider/anime1.png" class="img-responsive">
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div><!--/.item-->
+
+                <div class="item" style="background-image: url(images/slider/anime2.jpg)">
+                    <div class="container">
+                        <div class="row slide-margin">
+                            <div class="col-sm-6">
+                                <div class="carousel-content">
+                                    <h1 class="animation animated-item-1">B-smart</h1>
+                                    <h2 class="animation animated-item-2">Un nuevo proyecto del profesor Lenin, en estos momentos nos encontramos en mantenimiento</h2>
+                                    <a class="btn-slide animation animated-item-3" href="#">Leer Más...</a>
+                                </div>
+                            </div>
+
+                            <div class="col-sm-6 hidden-xs animation animated-item-4">
+                                <div class="slider-img">
+                                    <img src="images/slider/img2.png" class="img-responsive">
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div><!--/.item-->
+
+                <div class="item" style="background-image: url(images/slider/anime3.jpg)">
+                    <div class="container">
+                        <div class="row slide-margin">
+                            <div class="col-sm-6">
+                                <div class="carousel-content">
+                                    <h1 class="animation animated-item-1">B-smart</h1>
+                                    <h2 class="animation animated-item-2">Un nuevo proyecto del profesor Lenin, en estos momentos nos encontramos en mantenimiento</h2>
+                                    <a class="btn-slide animation animated-item-3" href="#">Leer Más...</a>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 hidden-xs animation animated-item-4">
+                                <div class="slider-img">
+                                    <img src="images/slider/img03.png" class="img-responsive">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div><!--/.item-->
+            </div><!--/.carousel-inner-->
+        </div><!--/.carousel-->
+        <a class="prev hidden-xs" href="#main-slider" data-slide="prev">
+            <i class="fa fa-chevron-left"></i>
+        </a>
+        <a class="next hidden-xs" href="#main-slider" data-slide="next">
+            <i class="fa fa-chevron-right"></i>
+        </a>
+    </section><!--/#main-slider-->
+
 <!--/************************* IFRAME centro **************************************************************-->
     
    
