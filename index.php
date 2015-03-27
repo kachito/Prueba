@@ -72,12 +72,11 @@
                         <li class="active"><a href="index.php">Home</a></li>
                         <li><a href="about-us - copia.html">About Us</a></li>
                         <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Diario <i class="fa fa-angle-down"></i></a>
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Diario Virtual <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu">
-                                <li><a href="construccion.html">Tareas</a></li>
-                                <li><a href="construccion.html">Avisos</a></li>
-                                <li><a href="construccion.html">404</a></li>
-                                <li><a href="construccion.html">Shortcodes</a></li>
+                                <li><a href="construccion.html">Diario</a></li>                                
+                                <li><a href="construccion.html">Horario de Clases</a></li>
+                                <li><a href="construccion.html">Horario de Examenes</a></li>
                             </ul>
                         </li>
                         <li><a href="materias.html">Materias</a></li>       <!-- target="info"-->
