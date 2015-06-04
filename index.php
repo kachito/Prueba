@@ -3,8 +3,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Educacion">
+    <meta name="author" content="Lenin Yepez">
     <title>B-Smart</title>
     
     <!-- core CSS -->
@@ -80,7 +80,7 @@
                             </ul>
                         </li>
                         <li><a href="materias.html">Materias</a></li>       <!-- target="info"-->
-                        <li><a href="cuestionarios.html" >Cuestionarios</a></li>                        
+                        <li><a href="construccion.html" >Cuestionarios</a></li>                        
                         <li><a href="construccion.html">Calificaciones</a></li> 
                         <li><a href="contactenos.html">Contactenos</a></li>                        
                     </ul>
