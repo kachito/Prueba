@@ -75,7 +75,7 @@
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Diario Virtual <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu">
                                 <li><a href="construccion.html">Diario</a></li>                                
-                                <li><a href="construccion.html">Horario de Clases</a></li>
+                                <li><a href="horario.html">Horario de Clases</a></li>
                                 <li><a href="construccion.html">Horario de Examenes</a></li>
                             </ul>
                         </li>
