@@ -69,11 +69,9 @@ data-config="{'skin':'skins/black/skin.css','volume':50,'autoplay':true,'shuffle
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-<<<<<<< HEAD
-                    <a class="navbar-brand" href="index.html"><img src="images/logo2.png" alt="logo"></a>
-=======
+
                     <a class="navbar-brand" href="index.php"><img src="images/logo2.png" alt="logo"></a>
->>>>>>> origin/produccion
+
                 </div>
                 
                 <div class="collapse navbar-collapse navbar-right">
