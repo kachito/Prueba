@@ -2527,7 +2527,12 @@ shortcodes page css
 }
 
 
-
-
+iframe {
+   margin:0; /* remove any margins of the IFrame and the body tag */
+   padding:0;   
+   display:block; /* force the iframe to display as block */  
+   width: 100%;  
+   border:none;
+}
 
 
