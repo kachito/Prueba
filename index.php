@@ -33,13 +33,15 @@
                 <div class="row">
                     <div class="col-sm-6 col-xs-4">
                         <div class="top-number"><p><i class="fa fa-phone-square"></i>  Lenin Yepez </p></div>
-                    </div>
-                    <div class="col-sm-6 col-xs-8">
-                        <!-- SCM Music Player http://scmplayer.net -->
-<script type="text/javascript" src="http://scmplayer.net/script.js" 
+                        
+                        <!-- SCM Music Player http://scmplayer.co -->
+<script type="text/javascript" src="http://scmplayer.co/script.js" 
 data-config="{'skin':'skins/black/skin.css','volume':50,'autoplay':true,'shuffle':true,'repeat':1,'placement':'top','showplaylist':false,'playlist':[{'title':'Silverstein - Smile In Your Sleep','url':'https://www.youtube.com/watch?v=mgtaRbx4pPQ'},{'title':'The Amity Affliction - Don%27t Lean On Me','url':'https://www.youtube.com/watch?v=C4URaV1i14A'},{'title':'Lana Del Rey - Born To Die','url':'https://www.youtube.com/watch?v=Bag1gUxuU0g'},{'title':'Silverstein - If You Could See Into My Soul','url':'https://www.youtube.com/watch?v=UF_WmeQMEyw'}]}" ></script>
 <!-- SCM Music Player script end -->
 
+                        
+                    </div>
+                    <div class="col-sm-6 col-xs-8">                        
                        <div class="social">
                             <ul class="social-share">
                                 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
