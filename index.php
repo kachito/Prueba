@@ -88,7 +88,7 @@ data-config="{'skin':'skins/black/skin.css','volume':50,'autoplay':true,'shuffle
                             </ul>
                         </li>
                         <li><a href="materias.html">Materias</a></li>       <!-- target="info"-->
-                        <li><a href="construccion.html" >Cuestionarios</a></li>                        
+                        <li><a href="cuestionarios2017.html" >Cuestionarios</a></li>                        
                         <li><a href="calificaciones.html">Calificaciones</a></li> 
                         <li><a href="contactenos.html">Contactenos</a></li>                        
                     </ul>
