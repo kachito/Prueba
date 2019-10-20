@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32d97263-9d64-4fa0-8e09-cee22d38a1f2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/about-us - copia.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us - copia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contactenos.html" beforeDir="false" afterPath="$PROJECT_DIR$/contactenos.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/materias.html" beforeDir="false" afterPath="$PROJECT_DIR$/materias.html" afterDir="false" />
-    </list>
+    <list default="true" id="32d97263-9d64-4fa0-8e09-cee22d38a1f2" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,8 +41,8 @@
       <file leaf-file-name="materias.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/materias.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-206">
-              <caret line="409" column="35" selection-start-line="409" selection-start-column="35" selection-end-line="409" selection-end-column="35" />
+            <state relative-caret-position="219">
+              <caret line="487" column="24" lean-forward="true" selection-start-line="487" selection-start-column="24" selection-end-line="487" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -137,15 +131,15 @@
       <updated>1571543543391</updated>
       <workItem from="1571543565786" duration="2000" />
       <workItem from="1571575436355" duration="70000" />
-      <workItem from="1571575513791" duration="1718000" />
+      <workItem from="1571575513791" duration="2507000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1790000" />
+    <option name="totallyTimeSpent" value="2579000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16944024" />
@@ -206,8 +200,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/materias.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-206">
-          <caret line="409" column="35" selection-start-line="409" selection-start-column="35" selection-end-line="409" selection-end-column="35" />
+        <state relative-caret-position="219">
+          <caret line="487" column="24" lean-forward="true" selection-start-line="487" selection-start-column="24" selection-end-line="487" selection-end-column="24" />
         </state>
       </provider>
     </entry>
