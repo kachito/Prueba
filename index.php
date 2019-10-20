@@ -33,13 +33,7 @@
                 <div class="row">
                     <div class="col-sm-6 col-xs-4">
                         <div class="top-number"><p><i class="fa fa-phone-square"></i>  Lenin Yepez </p></div>
-                        
-                        <!-- SCM Music Player http://scmplayer.co -->
-<script type="text/javascript" src="http://scmplayer.co/script.js" 
-data-config="{'skin':'skins/black/skin.css','volume':50,'autoplay':true,'shuffle':true,'repeat':1,'placement':'top','showplaylist':false,'playlist':[{'title':'Silverstein - Smile In Your Sleep','url':'https://www.youtube.com/watch?v=mgtaRbx4pPQ'},{'title':'The Amity Affliction - Don%27t Lean On Me','url':'https://www.youtube.com/watch?v=C4URaV1i14A'},{'title':'Lana Del Rey - Born To Die','url':'https://www.youtube.com/watch?v=Bag1gUxuU0g'},{'title':'Silverstein - If You Could See Into My Soul','url':'https://www.youtube.com/watch?v=UF_WmeQMEyw'}]}" ></script>
-<!-- SCM Music Player script end -->
 
-                        
                     </div>
                     <div class="col-sm-6 col-xs-8">                        
                        <div class="social">
@@ -79,7 +73,7 @@ data-config="{'skin':'skins/black/skin.css','volume':50,'autoplay':true,'shuffle
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav">
                         <li class="active"><a href="index.php">Home</a></li>
-                        <li><a href="about-us - copia.html">About Us</a></li>
+                        <li><a href="about-us - copia.html">About Us</a></li><!--
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown">Diario Virtual <i class="fa fa-angle-down"></i></a>
                             <ul class="dropdown-menu">
@@ -87,10 +81,10 @@ data-config="{'skin':'skins/black/skin.css','volume':50,'autoplay':true,'shuffle
                                 <li><a href="horario.html">Horario de Clases</a></li>
                                 <li><a href="construccion.html">Horario de Examenes</a></li>
                             </ul>
-                        </li>
-                        <li><a href="materias.html">Materias</a></li>       <!-- target="info"-->
+                        </li> -->
+                        <li><a href="materias.html">Materias</a></li>       <!-- target="info"-->  <!--
                         <li><a href="cuestionarios2017.html" >Cuestionarios</a></li>                        
-                        <li><a href="calificaciones.html">Calificaciones</a></li> 
+                        <li><a href="calificaciones.html">Calificaciones</a></li> -->
                         <li><a href="contactenos.html">Contactenos</a></li>                        
                     </ul>
                 </div>
@@ -192,8 +186,8 @@ data-config="{'skin':'skins/black/skin.css','volume':50,'autoplay':true,'shuffle
 
 <!--/************************* IFRAME centro **************************************************************-->
     
-   
-    <section id="bottom">
+
+    <section id="bottom"> <!--
         <div class="container wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="600ms">
             <div class="row">
                 <div class="col-md-3 col-sm-6">
@@ -208,8 +202,8 @@ data-config="{'skin':'skins/black/skin.css','volume':50,'autoplay':true,'shuffle
                             <li><a href="#">Privacy policy</a></li>
                             <li><a href="#">Contact us</a></li>
                         </ul>
-                    </div>    
-                </div><!--/.col-md-3-->
+                    </div>
+                </div><!--/.col-md-3--> <!--
 
                 <div class="col-md-3 col-sm-6">
                     <div class="widget">
@@ -223,8 +217,8 @@ data-config="{'skin':'skins/black/skin.css','volume':50,'autoplay':true,'shuffle
                             <li><a href="#">Ticket system</a></li>
                             <li><a href="#">Billing system</a></li>
                         </ul>
-                    </div>    
-                </div><!--/.col-md-3-->
+                    </div>
+                </div><!--/.col-md-3--><!--
 
                 <div class="col-md-3 col-sm-6">
                     <div class="widget">
@@ -238,8 +232,8 @@ data-config="{'skin':'skins/black/skin.css','volume':50,'autoplay':true,'shuffle
                             <li><a href="#">Plugin Development</a></li>
                             <li><a href="#">Article Writing</a></li>
                         </ul>
-                    </div>    
-                </div><!--/.col-md-3-->
+                    </div>
+                </div><!--/.col-md-3--><!--
 
                 <div class="col-md-3 col-sm-6">
                     <div class="widget">
@@ -253,10 +247,10 @@ data-config="{'skin':'skins/black/skin.css','volume':50,'autoplay':true,'shuffle
                             <li><a href="#">Ullamco</a></li>
                             <li><a href="#">Laboris</a></li>
                         </ul>
-                    </div>    
-                </div><!--/.col-md-3-->
+                    </div>
+                </div><!--/.col-md-3--><!--
             </div>
-        </div>
+        </div>-->
     </section><!--/#bottom-->
 
     <footer id="footer" class="midnight-blue">
