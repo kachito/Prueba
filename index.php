@@ -82,7 +82,7 @@
                                 <li><a href="construccion.html">Horario de Examenes</a></li>
                             </ul>
                         </li> -->
-                        <li><a href="materias.html">Materias</a></li>       <!-- target="info"-->  <!--
+                        <li><a href="materias.html">Cursos</a></li>       <!-- target="info"-->  <!--
                         <li><a href="cuestionarios2017.html" >Cuestionarios</a></li>                        
                         <li><a href="calificaciones.html">Calificaciones</a></li> -->
                         <li><a href="contactenos.html">Contactenos</a></li>                        
